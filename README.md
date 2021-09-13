@@ -5,7 +5,7 @@ So stop thinking and run this program. <br>
 Decide your options and assign them to head and tail respectively and move on by taking the output as a break statement to your procrastination.<br>
 <br>
 The saying is "A Little Bit of Something is Better than Nothing.”
-
+Even tho your efforts mean nothing to others they're your asserts for the future.
 
 Get your limited edition of anti_procrastinator_mrk9000 now. <br>
 Batteries sold separately.
