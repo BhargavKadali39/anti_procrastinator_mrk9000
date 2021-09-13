@@ -15,5 +15,5 @@ while i <= 1:
             pass
         else:
             print('Gracias')
-            i = 2
+            break
 
