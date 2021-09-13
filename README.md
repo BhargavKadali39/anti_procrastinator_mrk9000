@@ -7,4 +7,5 @@ Decide your options and assign them to head and tail respectively and move on by
 The saying is "A Little Bit of Something is Better than Nothing.”
 
 
-Get your limited edition of anti_procrastinator_mrk9000 now.
+Get your limited edition of anti_procrastinator_mrk9000 now. <br>
+Batteries sold separately.
