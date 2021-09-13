@@ -1,4 +1,6 @@
+
 import string
+import cowsay
 import random
 i = 0
 while i <= 1:
@@ -8,7 +10,7 @@ while i <= 1:
             coin = 'Heads'
         else:
             coin = 'Tails'
-        print("It's " + coin)
+        cowsay.stimpy("It's " + coin)
         
         cond = str(input('\nDo u want to flip again ?\n Type "y/n"\n->').lower())
         if cond == 'y':
@@ -16,4 +18,3 @@ while i <= 1:
         else:
             print('Gracias')
             break
-
